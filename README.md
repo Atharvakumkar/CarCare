@@ -221,9 +221,10 @@ All image assets must be in the same directory as the Python files. The applicat
 
 ---
 
-## Author
+## Authors
 
 Atharva Kumkar
+Raj Mohite
 
 ---
 
